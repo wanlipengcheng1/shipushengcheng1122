@@ -1,0 +1,5 @@
+{
+  "name": "NutriGen AI 膳食指南",
+  "description": "基于AI的个性化中国膳食生成器，提供7天食谱、精确配料与购物清单。",
+  "requestFramePermissions": []
+}
